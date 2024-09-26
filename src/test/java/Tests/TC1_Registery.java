@@ -59,5 +59,7 @@ public class TC1_Registery extends TestBase  {
         HP.Delete_Account();
         STP.Validate_Deleted_Account();
         DA.Continue_Button();
+
+        /**/
     }
 }
