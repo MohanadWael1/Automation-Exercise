@@ -1,0 +1,13 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="Tests.TC1_Registery"/>
+            <class name="Tests.TC2_Login_Valid_Credentials"/>
+            <class name="Tests.TC3_Login_Invalid_Credentials"/>
+            <class name="Tests.TC4_Logout"/>
+            <class name="Tests.TC5_Register_Exisitng_mail"/>
+
+
+        </classes>
+    </test>
+</suite>
